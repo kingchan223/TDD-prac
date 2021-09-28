@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="StringCalculatorTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-09-27T10:23:08" hostname="ichan-yeong-ui-MacBookPro.local" time="0.066">
+  <properties/>
+  <testcase name="toInts()" classname="StringCalculatorTest" time="0.054"/>
+  <testcase name="sum()" classname="StringCalculatorTest" time="0.003"/>
+  <testcase name="split()" classname="StringCalculatorTest" time="0.006"/>
+  <testcase name="splitAndSum()" classname="StringCalculatorTest" time="0.0"/>
+  <testcase name="isBlank()" classname="StringCalculatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
